@@ -11,7 +11,7 @@
   ],
   "success_url": "https://telegram.dog/VidComBot",
   "website": "https://t.me/ab_binary",
-  "repository": "https://github.com/Silentzlk/VideoCompBot",
+  "repository": "https://github.com/rajgovinds/VideoCompBot",
   "env": {
     "ENV": {
       "description": "Setting this to ANYTHING will enable VARs when in ENV mode",
